@@ -1,12 +1,15 @@
+<div align="center">
 # API Revisão 03 — NestJS 11 + Prisma 6 + Swagger
+</div>
 
+<div align="center">
 [![Node.js](https://img.shields.io/badge/Node.js-v20.x-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-v11-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-v6-2.30.0-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Jest](https://img.shields.io/badge/Tested_with-Jest-15C213?logo=jest&logoColor=white)](https://jestjs.io/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+</div>
 
 <p align="center">
   <img src="./screens/swagger.png" alt="Swagger UI" width="100%"/>
